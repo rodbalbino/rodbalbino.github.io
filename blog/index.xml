@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>balbino dev</title>
-    <link>https://rodbalbino.github.io/</link>
-    <description>Recent content on balbino dev</description>
+    <title>Blogs on balbino dev</title>
+    <link>https://rodbalbino.github.io/blog/</link>
+    <description>Recent content in Blogs on balbino dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 03 Aug 2020 13:45:47 -0300</lastBuildDate>
     
-	<atom:link href="https://rodbalbino.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rodbalbino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Mon, 03 Aug 2020 13:45:47 -0300</pubDate>
       
       <guid>https://rodbalbino.github.io/blog/blog-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://rodbalbino.github.io/post/hello-world/</link>
-      <pubDate>Mon, 03 Aug 2020 13:25:41 -0300</pubDate>
-      
-      <guid>https://rodbalbino.github.io/post/hello-world/</guid>
       <description></description>
     </item>
     
